@@ -20,3 +20,8 @@
 * Shoot Albo
   * DPITEVAPDU
   * The reason I didn't include Dark Humor in the Controversy Rating for this is that this isn't humor. I genuinely want someone to do this. WE **NEED** someone to do this NOW.
+### Methods to verify your age (don't worry, this only takes a minute)
+* Send us a photo of your government-issued ID
+* Do a video selfie so our AI can determine your age
+* This is a joke
+* If you voted yes to anything Online Safety-related, please consider making a contribution to society by killing yourself in the next 24 hours. You will not be missed, and I will piss on your grave. I will then come back at midnight to finish all over your tombstone before I proceed to hit it with a sledgehammer.
