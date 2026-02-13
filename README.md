@@ -32,5 +32,6 @@ If these are used in lowercase that means they aren't that present
 ### Methods to verify your age (don't worry, this only takes a minute)
 * Send us a photo of your government-issued ID
 * Do a video selfie so our AI can determine your age
+* Secured with **Persona ✽**
 * This is a joke
-* If you voted yes to anything Online Safety-related, please consider making a contribution to society by killing yourself in the next 24 hours. You will not be missed, and I will piss on your grave. I will then come back at midnight to finish all over your tombstone before I proceed to hit it with a sledgehammer.
+* If you voted yes to anything Online Safety-related, please consider making a contribution to society by killing yourself, now. You will not be missed, and I will piss on your grave. I will then come back at midnight to finish all over your tombstone before I proceed to hit it with a sledgehammer.
