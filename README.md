@@ -16,6 +16,9 @@ If these are used in lowercase that means they aren't that present
 * LQ - Low Quality; The game is total dogshit, with almost no effort or playtesting put into it. Lovely.
 * ES - Edgy Slop; Edgy for the sake of being edgy. Even if it's an acceptable quality it's still probably downright cringe as fuck in this way.
 * EC - Extreme levels of Cringe.
+* HQ - super duper High Quality! Probably made in Unreal Engine 5 because that's where all the shitty AAA games that can't run on your two-grand PC on minimum graphics come from! Evolving backwards!
+* HD - stylized version super realistic very accurate totally doesn't look like total dogshit such 'better artstyle' guys!
+* SQ - Sequel - super cool sequel that runs at 20FPS on a good day and has the shittiest storyline ever!! I can't wait for it to come out! I sure hope it doesn't still run like shit on any modern setup that doesn't cost like ten grand a whole decade later! And EVEN BETTER: IT COSTS THE AMAZINGLY FAIR PRICE OF NINETY DOLLARS!!! YouTubers will get to enjoy it tho cuz they got fucking supercomputers made from parts that were probably given to them for free for a sponsorship two years ago! Totally didn't wait, like, a literal fucking decade for this bloated slop!
 ### The ratings
 * EFD + EFT
   * DE-STDPIT
